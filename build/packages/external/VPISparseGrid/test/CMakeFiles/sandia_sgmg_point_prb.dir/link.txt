@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/g++    -rdynamic CMakeFiles/sandia_sgmg_point_prb.dir/sandia_sgmg_point_prb.cpp.o CMakeFiles/sandia_sgmg_point_prb.dir/sandia_rules2.cpp.o  -o sandia_sgmg_point_prb -Wl,-rpath,/home/nsingh/Utility/Dakota/build/packages/external/VPISparseGrid/src ../src/libsparsegrid.so 

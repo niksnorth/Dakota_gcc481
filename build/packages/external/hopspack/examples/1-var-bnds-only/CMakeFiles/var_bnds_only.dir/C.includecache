@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/hopspack/examples/1-var-bnds-only/var_bnds_only.c
+stdio.h
+-
+string.h
+-
+

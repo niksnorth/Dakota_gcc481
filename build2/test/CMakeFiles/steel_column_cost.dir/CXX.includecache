@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/test/steel_column_cost.cpp
+cstdlib
+-
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+

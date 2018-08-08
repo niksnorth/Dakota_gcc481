@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/g++    -rdynamic CMakeFiles/scolib_docking.dir/exec/docking.cpp.o  -o scolib_docking 

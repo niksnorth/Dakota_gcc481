@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/g++ -fPIC   -shared -Wl,-soname,libsparsegrid.so -o libsparsegrid.so CMakeFiles/sparsegrid.dir/sandia_cubature.cpp.o CMakeFiles/sparsegrid.dir/sandia_rules.cpp.o CMakeFiles/sparsegrid.dir/sandia_sgmg.cpp.o CMakeFiles/sparsegrid.dir/sandia_sgmga.cpp.o CMakeFiles/sparsegrid.dir/sandia_sgmgg.cpp.o -Wl,-rpath,::::::::::::::::::::::::::::::::::::: 

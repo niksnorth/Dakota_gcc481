@@ -1,0 +1,14 @@
+Blurb:: CONMIN method of feasible directions
+
+Description::
+The interpretations of the method independent controls for CONMIN are
+essentially identical to those for DOT.  
+
+See \ref topic-package_dot for information related to \c CONMIN
+methods, specifically \ref method-dot_mmfd.
+
+Topics::	package_conmin
+Examples::
+Theory::
+Faq::
+See_Also::	method-dot_mmfd

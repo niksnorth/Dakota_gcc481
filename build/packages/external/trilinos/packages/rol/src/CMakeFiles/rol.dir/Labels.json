@@ -1,0 +1,1283 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/build/packages/external/trilinos/packages/rol/src/ROL_config.h"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/vector/ROL_CArrayVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/vector/ROL_ElementwiseVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/vector/ROL_MultiVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/vector/ROL_MultiVectorDefault.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/vector/ROL_PartitionedVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/vector/ROL_PinTVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/vector/ROL_ProfiledVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/vector/ROL_RandomVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/vector/ROL_RieszVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/vector/ROL_ScaledStdVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/vector/ROL_SingletonVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/vector/ROL_StdVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/vector/ROL_Vector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/vector/ROL_Vector_SimOpt.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/compatibility/teuchos/rcp/ROL_Ptr.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/ROL_ConstraintManager.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/ROL_ObjectiveMMA.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/ROL_SimController.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/ROL_VectorNorms.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/boundconstraint/ROL_BoundConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/boundconstraint/ROL_BoundConstraint_Partitioned.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/boundconstraint/ROL_Bounds.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/constraint/ROL_BinaryConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/constraint/ROL_BoundToConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/constraint/ROL_Constraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/constraint/ROL_ConstraintDef.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/constraint/ROL_ConstraintFromObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/constraint/ROL_Constraint_Partitioned.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/constraint/ROL_LinearConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/constraint/ROL_LowerBoundToConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/constraint/ROL_ScalarLinearConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/constraint/ROL_UpperBoundToConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/nlls/ROL_NonlinearLeastSquaresObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/nlls/ROL_Objective_FSsolver.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/objective/ROL_CompositeObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/objective/ROL_LinearCombinationObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/objective/ROL_LinearObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/objective/ROL_Objective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/objective/ROL_ObjectiveDef.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/objective/ROL_ObjectiveFromConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/objective/ROL_QuadraticObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/objective/ROL_SlacklessObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_BlockOperator.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_BlockOperator2.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_BlockOperator2Determinant.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_BlockOperator2Diagonal.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_BlockOperator2UnitLower.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_BlockOperator2UnitUpper.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_DiagonalOperator.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_DyadicOperator.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_HouseholderReflector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_IdentityOperator.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_LinearOperator.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_LinearOperatorFromConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_LinearOperatorProduct.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_LinearOperatorSum.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_NullOperator.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/operator/ROL_SchurComplement.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/simopt/ROL_BoundConstraint_SimOpt.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/simopt/ROL_CompositeConstraint_SimOpt.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/simopt/ROL_CompositeObjective_SimOpt.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/simopt/ROL_Constraint_SimOpt.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/simopt/ROL_Constraint_State.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/simopt/ROL_Constraint_TimeSimOpt.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/simopt/ROL_LinearCombinationObjective_SimOpt.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/simopt/ROL_NonlinearLeastSquaresObjective_SimOpt.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/simopt/ROL_Objective_SimOpt.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/simopt/ROL_Reduced_Constraint_SimOpt.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/simopt/ROL_Reduced_Objective_SimOpt.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/std/ROL_StdBoundConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/std/ROL_StdConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/std/ROL_StdLinearOperator.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/std/ROL_StdLinearOperatorFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/std/ROL_StdObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/function/std/ROL_StdTridiagonalOperator.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_AugmentedLagrangianStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_BundleStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_CompositeStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_FletcherStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_GradientStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_InteriorPointPrimalDualResidual.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_InteriorPointStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_LineSearchStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_MoreauYosidaPenaltyStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_NewtonKrylovStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_NewtonStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_NonlinearCGStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_PrimalDualActiveSetStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_PrimalDualInteriorPointStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_ProjectedNewtonKrylovStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_ProjectedNewtonStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_ProjectedSecantStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_SecantStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_Step.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_StepFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/ROL_TrustRegionStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/linesearch/ROL_BackTracking.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/linesearch/ROL_Bisection.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/linesearch/ROL_Brents.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/linesearch/ROL_CubicInterp.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/linesearch/ROL_GoldenSection.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/linesearch/ROL_IterationScaling.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/linesearch/ROL_LineSearch.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/linesearch/ROL_LineSearchFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/linesearch/ROL_PathBasedTargetLevel.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/linesearch/ROL_ScalarMinimizationLineSearch.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/trustregion/ROL_CauchyPoint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/trustregion/ROL_ColemanLiModel.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/trustregion/ROL_DogLeg.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/trustregion/ROL_DoubleDogLeg.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/trustregion/ROL_KelleySachsModel.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/trustregion/ROL_TruncatedCG.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/trustregion/ROL_TrustRegion.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/trustregion/ROL_TrustRegionFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/trustregion/ROL_TrustRegionModel.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/trustregion/ROL_TrustRegionTypes.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/secant/ROL_BarzilaiBorwein.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/secant/ROL_Secant.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/secant/ROL_SecantFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/secant/ROL_lBFGS.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/secant/ROL_lDFP.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/secant/ROL_lSR1.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/krylov/ROL_ConjugateGradients.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/krylov/ROL_ConjugateResiduals.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/krylov/ROL_GMRES.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/krylov/ROL_Krylov.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/krylov/ROL_KrylovFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/krylov/ROL_Lanczos.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/bundle/ROL_Bundle.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/bundle/ROL_Bundle_AS.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/bundle/ROL_Bundle_TT.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/augmentedlagrangian/ROL_AugmentedLagrangian.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/augmentedlagrangian/ROL_AugmentedLagrangian_SimOpt.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/augmentedlagrangian/ROL_QuadraticPenalty.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/augmentedlagrangian/ROL_QuadraticPenalty_SimOpt.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/augmentedlagrangian/ROL_Reduced_AugmentedLagrangian_SimOpt.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/moreauyosidapenalty/ROL_MoreauYosidaPenalty.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/interiorpoint/ROL_InteriorPoint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/interiorpoint/ROL_InteriorPointPenalty.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/interiorpoint/ROL_InteriorPointPrimalDualResidual.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/interiorpoint/ROL_LogBarrierObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/interiorpoint/ROL_MeritFunction.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/interiorpoint/ROL_ObjectiveFromBoundConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/interiorpoint/ROL_PrimalDualInteriorPointOperator.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/interiorpoint/ROL_PrimalDualInteriorPointReducedResidual.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/interiorpoint/ROL_PrimalDualInteriorPointResidual.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/interiorpoint/ROL_PrimalDualSystemStep.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/nonlinearcg/ROL_NonlinearCG.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/fletcher/ROL_BoundFletcher.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/fletcher/ROL_Fletcher.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/step/fletcher/ROL_FletcherBase.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/algorithm/ROL_Algorithm.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/algorithm/ROL_OptimizationProblem.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/algorithm/ROL_OptimizationSolver.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/status/ROL_BundleStatusTest.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/status/ROL_CombinedStatusTest.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/status/ROL_ConstraintStatusTest.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/status/ROL_FletcherStatusTest.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/status/ROL_StatusTest.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/status/ROL_StatusTestFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_AbsoluteValue.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_AlmostSureConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_PlusFunction.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_PositiveFunction.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_RegressionError.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_RiskBoundConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_RiskLessConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_RiskLessObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_RiskMeasure.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_RiskNeutralConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_RiskNeutralObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_SimulatedBoundConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_SimulatedConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_SimulatedObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/ROL_SimulatedObjectiveCVaR.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Arcsine.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Beta.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Cauchy.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Dirac.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Distribution.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_DistributionFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Exponential.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Gamma.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Gaussian.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Gumbel.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Kumaraswamy.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Laplace.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Logistic.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Parabolic.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_RaisedCosine.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Smale.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Triangle.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_TruncatedExponential.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_TruncatedGaussian.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/distribution/ROL_Uniform.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/expectationquad/ROL_ExpectationQuad.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/expectationquad/ROL_GenMoreauYosidaCVaR.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/expectationquad/ROL_LogExponentialQuadrangle.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/expectationquad/ROL_LogQuantileQuadrangle.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/expectationquad/ROL_MeanVarianceQuadrangle.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/expectationquad/ROL_MoreauYosidaCVaR.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/expectationquad/ROL_QuantileQuadrangle.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/expectationquad/ROL_SmoothedWorstCaseQuadrangle.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/expectationquad/ROL_TruncatedMeanQuadrangle.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/ROL_RandVarFunctional.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/ROL_RandVarFunctionalFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/ROL_RandVarFunctionalInfo.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/ROL_SampledScalar.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/ROL_SampledVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/ROL_StochasticConstraint.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/ROL_StochasticObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_CVaR.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_CoherentEntropicRisk.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_ConvexCombinationRiskMeasure.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_EntropicRisk.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_ExpectationQuadRisk.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_HMCR.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_KLDivergence.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_MeanDeviation.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_MeanDeviationFromTarget.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_MeanVariance.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_MeanVarianceFromTarget.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_MixedCVaR.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_QuantileRadius.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_RiskMeasureFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/ROL_RiskMeasureInfo.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/fdivergence/ROL_Chi2Divergence.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/fdivergence/ROL_FDivergence.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/spectral/ROL_ChebyshevSpectral.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/spectral/ROL_SecondOrderCVaR.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/risk/spectral/ROL_SpectralRisk.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/error/ROL_ErrorMeasureFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/error/ROL_ErrorMeasureInfo.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/error/ROL_ExpectationQuadError.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/regret/ROL_ExpectationQuadRegret.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/regret/ROL_RegretMeasureFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/regret/ROL_RegretMeasureInfo.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/deviation/ROL_DeviationMeasureFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/deviation/ROL_DeviationMeasureInfo.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/deviation/ROL_ExpectationQuadDeviation.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/probability/ROL_BPOE.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/probability/ROL_ProbabilityFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/probability/ROL_ProbabilityInfo.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/function/randvarfunctional/probability/ROL_SmoothedPOE.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/algorithm/ROL_LinearRegression.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/vector/ROL_RiskVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/vector/ROL_SimulatedVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/ROL_BatchManager.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/ROL_MonteCarloGenerator.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/ROL_SROMGenerator.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/ROL_SampleGenerator.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/ROL_SingletonTeuchosBatchManager.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/ROL_StdTeuchosBatchManager.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/ROL_TeuchosBatchManager.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/ROL_UserInputGenerator.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/SROM/ROL_AtomVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/SROM/ROL_BatchStdVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/SROM/ROL_CDFObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/SROM/ROL_MomentObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/SROM/ROL_PointwiseCDFObjective.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/SROM/ROL_ProbabilityVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/sol/sampler/SROM/ROL_SROMVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/elementwise/ROL_BinaryFunctions.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/elementwise/ROL_Elementwise_Function.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/elementwise/ROL_Elementwise_Reduce.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/elementwise/ROL_UnaryFunctions.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_BisectionScalarMinimization.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_Bracketing.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_BrentsScalarMinimization.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_Fejer2Quadrature.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_GaussChebyshev1Quadrature.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_GaussChebyshev2Quadrature.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_GaussChebyshev3Quadrature.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_GaussLegendreQuadrature.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_GoldenSectionScalarMinimization.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_HagerZhangBracketing.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_Quadrature1D.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_ScalarFunction.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_ScalarMinimization.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_ScalarMinimizationStatusTest.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_ScalarMinimizationTest.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/utils/ROL_ScalarMinimizationTest01.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/ROL_HelperFunctions.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/ROL_ParameterListConverters.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/ROL_Types.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/ROL_ValidParameters.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_BVP.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_Beale.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_DiodeCircuit.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_FreudensteinRoth.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_GetTestProblems.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_HS1.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_HS2.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_HS24.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_HS25.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_HS29.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_HS3.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_HS32.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_HS38.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_HS39.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_HS4.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_HS45.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_HS5.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_LeastSquares.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_Minimax1.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_Minimax2.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_Minimax3.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_ParaboloidCircle.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_PoissonControl.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_PoissonInversion.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_Powell.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_Rosenbrock.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_SimpleEqConstrained.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_SumOfSquares.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_TestProblem.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/zoo/testproblems/ROL_Zakharov.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/rol/src/ROL_Version.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "ROLLibs", "ROLLibs" ],
+		"name" : "rol"
+	}
+}

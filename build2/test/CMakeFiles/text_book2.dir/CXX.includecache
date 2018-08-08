@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/test/text_book2.cpp
+cstdlib
+-
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+windows.h
+-
+unistd.h
+-
+

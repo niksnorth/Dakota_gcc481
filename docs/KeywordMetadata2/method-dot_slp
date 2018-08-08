@@ -1,0 +1,17 @@
+Blurb:: DOT Sequential Linear Program
+
+Description::
+DOT library \cite Van95 implementation of sequential linear
+programming for constrained optimizaiton.
+
+See \ref topic-package_dot for information common to all \c DOT methods.
+
+<em>DOT requires a separate software license and therefore may not
+be available in all versions of Dakota.  CONMIN or OPT++ methods may
+be suitable alternatives.</em>
+
+Topics::	
+Examples::
+Theory::
+Faq::
+See_Also::

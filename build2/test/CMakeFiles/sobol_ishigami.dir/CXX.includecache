@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/test/sobol_ishigami.cpp
+cstdlib
+-
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+map
+-
+algorithm
+-
+cctype
+-
+cmath
+-
+

@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/g++    -rdynamic CMakeFiles/text_book1.dir/text_book1.cpp.o  -o text_book1 -Wl,-rpath,::::::::::::::::::::::::::::::::::::::::::::::::: 

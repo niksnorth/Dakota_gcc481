@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/gfortran -fPIC   -shared -Wl,-soname,libncsuopt.so -o libncsuopt.so CMakeFiles/ncsuopt.dir/DIRect.f.o CMakeFiles/ncsuopt.dir/DIRbatch.f.o CMakeFiles/ncsuopt.dir/DIRsubrout.f.o -Wl,-rpath,::::::::::::::::::::::::::::::::::::: 

@@ -1,0 +1,135 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_CTimeMonitor.h"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_Comm.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_CommHelpers.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_CommUtilities.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_DefaultComm.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_DefaultSerialComm.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_Details_MpiTypeTraits.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_EReductionType.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_PerformanceMonitorBase.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_ReductionOp.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_ReductionOpHelpers.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_SerializationTraits.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_SerializationTraitsHelpers.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_Serializer.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_SerializerHelpers.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_TableColumn.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_TableEntry.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_TableFormat.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_TimeMonitor.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_XMLParameterListHelpers.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_YamlParameterListHelpers.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_CTimeMonitor.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_CommHelpers.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_EReductionType.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_PerformanceMonitorBase.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_TableColumn.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_TableEntry.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_TableFormat.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_TimeMonitor.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_XMLParameterListHelpers.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/comm/src/Teuchos_YamlParameterListHelpers.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "TeuchosCommLibs", "TeuchosLibs" ],
+		"name" : "teuchoscomm"
+	}
+}

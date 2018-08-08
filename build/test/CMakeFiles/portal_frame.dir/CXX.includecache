@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/test/portal_frame.cpp
+cstdlib
+-
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+

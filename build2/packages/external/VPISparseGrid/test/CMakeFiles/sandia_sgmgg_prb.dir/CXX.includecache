@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/VPISparseGrid/src/sandia_rules.hpp
+fstream
+-
+string
+-
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/VPISparseGrid/src/sandia_sgmgg.hpp
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/VPISparseGrid/test/sandia_sgmgg_prb.cpp
+cstdlib
+-
+iostream
+-
+iomanip
+-
+cstring
+-
+sandia_rules.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/VPISparseGrid/test/sandia_rules.hpp
+sandia_sgmgg.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/VPISparseGrid/test/sandia_sgmgg.hpp
+

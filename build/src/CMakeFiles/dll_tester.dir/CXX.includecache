@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/src/dakota_dll_api.h
+
+/home/nsingh/Utility/Dakota/dakota/src/dll_tester.cpp
+cstdlib
+-
+cstring
+-
+iostream
+-
+dakota_dll_api.h
+/home/nsingh/Utility/Dakota/dakota/src/dakota_dll_api.h
+

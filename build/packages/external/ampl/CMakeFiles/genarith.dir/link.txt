@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/gcc   -rdynamic CMakeFiles/genarith.dir/arithchk.c.o CMakeFiles/genarith.dir/fpinit.c.o  -o genarith -lm 

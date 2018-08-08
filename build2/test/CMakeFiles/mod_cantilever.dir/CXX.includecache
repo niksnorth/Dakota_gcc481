@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/test/mod_cantilever.cpp
+cstdlib
+-
+cmath
+-
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+map
+-
+algorithm
+-
+cctype
+-
+

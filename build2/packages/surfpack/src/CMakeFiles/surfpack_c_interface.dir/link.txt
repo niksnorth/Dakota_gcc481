@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/g++ -fPIC   -shared -Wl,-soname,libsurfpack_c_interface.so -o libsurfpack_c_interface.so CMakeFiles/surfpack_c_interface.dir/surfpack_c_interface.cpp.o  -L/home/nsingh/Utility/Dakota/build/lib/cmake/Teuchos/../../../lib -Wl,-rpath,::::::::::::::::::::::::::::::::::::: 

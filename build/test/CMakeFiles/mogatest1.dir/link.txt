@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/g++    -rdynamic CMakeFiles/mogatest1.dir/mogatest1.cpp.o  -o mogatest1 -Wl,-rpath,::::::::::::::::::::::::::::::::::::::::::::::::: 

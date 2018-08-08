@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/src/graphics/menu.c
+stdio.h
+-
+Xm/PushB.h
+-
+Xm/RowColumn.h
+-
+Xm/CascadeB.h
+-
+

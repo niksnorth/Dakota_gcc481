@@ -1,0 +1,107 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_FiniteAutomaton.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Grammar.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Graph.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Language.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Parser.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Reader.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_ReaderTables.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_regex.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_TableDecl.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_XML.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_YAML.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_MathExpr.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_make_lalr1_parser.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_chartab.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_FiniteAutomaton.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Grammar.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Graph.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Language.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Parser.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Reader.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_regex.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_XML.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_YAML.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_MathExpr.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "TeuchosParserLibs", "TeuchosLibs" ],
+		"name" : "teuchosparser"
+	}
+}

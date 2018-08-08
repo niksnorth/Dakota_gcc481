@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/acro/packages/utilib/src/exec/timer.c
+sys/types.h
+-
+sys/resource.h
+-
+sys/signal.h
+-
+sys/time.h
+-
+sys/wait.h
+-
+errno.h
+-
+locale.h
+-
+signal.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+string.h
+-
+unistd.h
+-
+utilib_config.h
+-
+err.h
+-
+
+packages/external/acro/packages/utilib/utilib_config.h
+

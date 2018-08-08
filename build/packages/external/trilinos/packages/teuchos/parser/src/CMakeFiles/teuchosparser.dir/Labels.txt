@@ -1,0 +1,28 @@
+# Target labels
+ TeuchosParserLibs
+ TeuchosLibs
+# Source files and their labels
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_FiniteAutomaton.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Grammar.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Graph.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Language.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Parser.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Reader.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_ReaderTables.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_regex.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_TableDecl.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_XML.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_YAML.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_MathExpr.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_make_lalr1_parser.cpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_chartab.cpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_FiniteAutomaton.cpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Grammar.cpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Graph.cpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Language.cpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Parser.cpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_Reader.cpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_regex.cpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_XML.cpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_YAML.cpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/parser/src/Teuchos_MathExpr.cpp

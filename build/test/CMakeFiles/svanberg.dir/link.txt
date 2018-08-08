@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/g++    -rdynamic CMakeFiles/svanberg.dir/svanberg.cpp.o  -o svanberg -Wl,-rpath,::::::::::::::::::::::::::::::::::::::::::::::::: 

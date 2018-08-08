@@ -1,0 +1,199 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_BLAS.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_BLAS_types.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_BLAS_wrappers.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_CompObject.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_DataAccess.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_Details_Lapack128.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_ExpandScalarTypeMacros.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_Flops.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_LAPACK.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_LAPACK_wrappers.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_Banner.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_CoordDataReader.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_Raw_Adder.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_Raw_Checker.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_Raw_Graph_Adder.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_Raw_Reader.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_Raw_Writer.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_SetScientific.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_SymmetrizingAdder.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_SymmetrizingGraphAdder.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_assignScalar.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_generic.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_split.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_Object.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_Polynomial.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_PolynomialDecl.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_PolynomialTraits.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_PromotionTraits.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_SerialBandDenseMatrix.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_SerialBandDenseSolver.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_SerialDenseHelpers.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_SerialDenseMatrix.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_SerialDenseSolver.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_SerialDenseVector.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_SerialQRDenseSolver.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_SerialSpdDenseSolver.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_SerialSymDenseMatrix.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_SerialTriDiMatrix.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_BLAS.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_CompObject.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_Details_Lapack128.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_Flops.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_LAPACK.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_Banner.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_generic.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_MatrixMarket_split.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/numerics/src/Teuchos_Object.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "TeuchosNumericsLibs", "TeuchosLibs" ],
+		"name" : "teuchosnumerics"
+	}
+}

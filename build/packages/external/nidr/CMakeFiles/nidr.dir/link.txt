@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/gcc -fPIC   -shared -Wl,-soname,libnidr.so -o libnidr.so CMakeFiles/nidr.dir/nidr-scanner.c.o CMakeFiles/nidr.dir/nidr-parser.c.o CMakeFiles/nidr.dir/avltree.c.o CMakeFiles/nidr.dir/nidr.c.o -Wl,-rpath,::::::::::::::::::::::::::::::::::::: 

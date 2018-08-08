@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/g++ -fPIC   -shared -Wl,-soname,libtinyxml.so -o libtinyxml.so CMakeFiles/tinyxml.dir/tinyxml/tinyxml.cpp.o CMakeFiles/tinyxml.dir/tinyxml/tinyxmlerror.cpp.o CMakeFiles/tinyxml.dir/tinyxml/tinyxmlparser.cpp.o -Wl,-rpath,::::::::::::::::::::::::::::::::::::: 

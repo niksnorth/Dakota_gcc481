@@ -1,0 +1,71 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/build/packages/external/trilinos/packages/teuchos/remainder/src/TeuchosRemainder_config.h"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_FILEstream.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_FloatingPointTrap.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_Handle.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_Handleable.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_Libxml2HandlerAdapter.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_MPITraits.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_StringToIntMap.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_arrayArg.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Trilinos_Details_LinearSolver.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Trilinos_Details_LinearSolverFactory.hpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_FloatingPointTrap.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_Libxml2HandlerAdapter.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_StringToIntMap.cpp"
+		},
+		
+		{
+			"file" : "/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Trilinos_Details_LinearSolverFactory.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "TeuchosRemainderLibs", "TeuchosLibs" ],
+		"name" : "teuchosremainder"
+	}
+}

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/acro/packages/utilib/src/exec/doe/xu.c
+utilib_config.h
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+packages/external/acro/packages/utilib/utilib_config.h
+

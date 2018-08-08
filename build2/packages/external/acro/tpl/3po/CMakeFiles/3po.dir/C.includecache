@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/acro/tpl/3po/cobyla2c/cobyla.c
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+cobyla.h
+/home/nsingh/Utility/Dakota/dakota/packages/external/acro/tpl/3po/cobyla2c/cobyla.h
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/acro/tpl/3po/cobyla2c/cobyla.h
+

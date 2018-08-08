@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/acro/packages/utilib/src/exec/memmon.c
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+getopt.h
+-
+signal.h
+-
+sys/resource.h
+-
+sys/times.h
+-
+sys/time.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+errno.h
+-
+stdio.h
+-
+stdlib.h
+-
+getopt.h
+-
+stdlib.h
+-
+stdio.h
+-
+

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/acro/packages/scolib/src/exec/funcadd.c
+stdio1.h
+/home/nsingh/Utility/Dakota/dakota/packages/external/acro/packages/scolib/src/exec/stdio1.h
+math.h
+/home/nsingh/Utility/Dakota/dakota/packages/external/acro/packages/scolib/src/exec/math.h
+funcadd.h
+/home/nsingh/Utility/Dakota/dakota/packages/external/acro/packages/scolib/src/exec/funcadd.h
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/ampl/funcadd.h
+stdio1.h
+/home/nsingh/Utility/Dakota/dakota/packages/external/ampl/stdio1.h
+
+packages/external/ampl/stdio1.h
+stdio.h
+-
+varargs.h
+packages/external/ampl/varargs.h
+stdarg.h
+packages/external/ampl/stdarg.h
+stdlib.h
+-
+

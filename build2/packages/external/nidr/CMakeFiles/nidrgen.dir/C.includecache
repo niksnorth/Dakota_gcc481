@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/nidr/nidr.h
+stddef.h
+-
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/nidr/nidrgen.c
+stdio.h
+-
+io.h
+-
+unistd.h
+-
+stdlib.h
+-
+io.h
+-
+stdlib.h
+-
+ctype.h
+-
+math.h
+-
+stdarg.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+nidr.h
+/home/nsingh/Utility/Dakota/dakota/packages/external/nidr/nidr.h
+windows.h
+-
+dlfcn.h
+-
+stdlib.h
+-
+

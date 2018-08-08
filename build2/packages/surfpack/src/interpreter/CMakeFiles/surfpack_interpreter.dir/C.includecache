@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/packages/surfpack/src/interpreter/lexer.c
+stdio.h
+-
+string.h
+-
+errno.h
+-
+stdlib.h
+-
+inttypes.h
+-
+surfparse.h
+/home/nsingh/Utility/Dakota/dakota/packages/surfpack/src/interpreter/surfparse.h
+unistd.h
+-
+
+packages/surfpack/src/interpreter/surfparse.h
+

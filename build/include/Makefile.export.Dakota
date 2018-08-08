@@ -1,0 +1,24 @@
+# Exported Makefile fragments for Dakota
+
+## List of package definitions
+Dakota_DEFINES= -DHAVE_CONFIG_H -DBOOST_SIGNALS_NO_DEPRECATION_WARNING -DHAVE_CONFIG_H -DDISABLE_DAKOTA_CONFIG_H -DBOOST_DISABLE_ASSERTS -DHAVE_UNISTD_H -DHAVE_SYSTEM -DHAVE_WORKING_FORK -DHAVE_WORKING_VFORK -DHAVE_SYS_WAIT_H -DHAVE_USLEEP -DDAKOTA_F90 -DHAVE_PECOS -DHAVE_SURFPACK -DHAVE_ACRO -DDAKOTA_UTILIB -DHAVE_APPROXNN -DHAVE_ADAPTIVE_SAMPLING -DHAVE_CONMIN -DHAVE_DDACE -DHAVE_DREAM -DHAVE_FSUDACE -DDAKOTA_HOPS -DHAVE_JEGA -DHAVE_NCSU -DHAVE_NL2SOL -DHAVE_NOMAD -DHAVE_OPTPP -DDAKOTA_OPTPP -DHAVE_ROL -DHAVE_PSUADE -DHAVE_X_GRAPHICS -DHAVE_AMPL
+
+## List of package include dirs
+Dakota_INCLUDE_DIRS=-I/home/nsingh/Utility/Dakota/build/include
+
+## List of package library paths
+Dakota_LIBRARY_DIRS=-L/home/nsingh/Utility/Dakota/build/lib
+
+## List of package libraries
+Dakota_LIBRARIES= -ldakota_src -ldakota_src_fortran -lnidr -lpecos -lpecos_src -llhs -llhs_mods -llhs_mod -ldfftpack -lsparsegrid -lsurfpack -lsurfpack -lsurfpack_fortran -lutilib -lcolin interfaces -lscolib -l3po -lpebbl -ltinyxml -lapproxnn -lconmin -lddace -ldream -lfsudace -lhopspack -ljega -ljega_fe -lmoga -lsoga -leutils -lutilities -lncsuopt -lcport -lnomad -loptpp -lpsuade -ldakota_sciplot -lamplsolver
+
+## List of TPL include dirs
+Dakota_TPL_INCLUDE_DIRS= -I/home/nsingh/Utility/Dakota-67/boost_inst/1.49/include -I/home/nsingh/Utility/Dakota-67/boost_inst/1.49/include -I/home/nsingh/Utility/Dakota/build/lib/cmake/Teuchos/../../../include
+
+## List of TPL library paths external to the Dakota build
+Dakota_TPL_LIBRARY_DIRS= -L/home/nsingh/Utility/Dakota/build/lib/cmake/Teuchos/../../../lib -L/home/nsingh/Utility/Dakota-67/boost_inst/1.49/lib
+
+## List of required TPLs external to the Dakota build
+Dakota_TPL_LIBRARIES= -lteuchosremainder -lteuchosnumerics -lteuchoscomm -lteuchosparameterlist -lteuchosparser -lteuchoscore /home/nsingh/Utility/Dakota-67/boost_inst/1.49/lib/libboost_filesystem.so /home/nsingh/Utility/Dakota-67/boost_inst/1.49/lib/libboost_program_options.so /home/nsingh/Utility/Dakota-67/boost_inst/1.49/lib/libboost_regex.so /home/nsingh/Utility/Dakota-67/boost_inst/1.49/lib/libboost_serialization.so /home/nsingh/Utility/Dakota-67/boost_inst/1.49/lib/libboost_system.so /home/nsingh/Utility/Dakota-67/boost_inst/1.49/lib/libboost_signals.so /usr/lib64/libXm.so /usr/lib64/libXmu.so /usr/lib64/libXt.so /usr/lib64/libXext.so /usr/lib64/libXpm.so /usr/lib64/libXrender.so /usr/lib64/libX11.so /usr/lib64/libXft.so /usr/lib64/libSM.so /usr/lib64/libICE.so /usr/lib64/libXau.so /usr/lib64/libXdmcp.so /usr/lib64/libSM.so /usr/lib64/libICE.so /usr/lib64/libX11.so /usr/lib64/libXext.so -lpthread /home/nsingh/Utility/lapack2/build2/lib/liblapack.so /home/nsingh/Utility/lapack2/build2/lib/libblas.so
+
+

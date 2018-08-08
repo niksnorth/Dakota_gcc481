@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/FSUDace/fsu.H
+
+/home/nsingh/Utility/Dakota/dakota/packages/external/FSUDace/fsu_quality_problems.C
+fsudace_config.h
+/home/nsingh/Utility/Dakota/dakota/packages/external/FSUDace/fsudace_config.h
+cstdlib
+-
+cmath
+-
+ctime
+-
+cstring
+-
+stdlib.h
+-
+math.h
+-
+time.h
+-
+string.h
+-
+iostream
+-
+iomanip
+-
+fstream
+-
+fsu.H
+/home/nsingh/Utility/Dakota/dakota/packages/external/FSUDace/fsu.H
+

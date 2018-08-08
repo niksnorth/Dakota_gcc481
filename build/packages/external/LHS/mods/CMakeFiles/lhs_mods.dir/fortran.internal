@@ -1,0 +1,18 @@
+# The fortran modules provided by this target.
+provides
+ ccmatr
+ chrcrd
+ cparam
+ crank
+ csamp
+ cworkc
+ cworkx
+ distnm
+ firsts
+ inbycall
+ killfile
+ localvars
+ obstr
+ pdmat
+ star
+ uicorr

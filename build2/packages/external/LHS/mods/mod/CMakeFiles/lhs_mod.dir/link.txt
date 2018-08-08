@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/gfortran -fPIC   -shared -Wl,-soname,liblhs_mod.so -o ../../lib/liblhs_mod.so CMakeFiles/lhs_mod.dir/Parms.f90.o -Wl,-rpath,::::::::::::::::::::::::::::::::::::: 

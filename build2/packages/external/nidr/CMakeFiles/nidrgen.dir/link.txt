@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/gcc   -rdynamic CMakeFiles/nidrgen.dir/nidrgen.c.o  -o nidrgen -lm 

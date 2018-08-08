@@ -1,0 +1,19 @@
+# Target labels
+ TeuchosRemainderLibs
+ TeuchosLibs
+# Source files and their labels
+/home/nsingh/Utility/Dakota/build/packages/external/trilinos/packages/teuchos/remainder/src/TeuchosRemainder_config.h
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_FILEstream.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_FloatingPointTrap.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_Handle.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_Handleable.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_Libxml2HandlerAdapter.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_MPITraits.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_StringToIntMap.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_arrayArg.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Trilinos_Details_LinearSolver.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Trilinos_Details_LinearSolverFactory.hpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_FloatingPointTrap.cpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_Libxml2HandlerAdapter.cpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Teuchos_StringToIntMap.cpp
+/home/nsingh/Utility/Dakota/dakota/packages/external/trilinos/packages/teuchos/remainder/src/Trilinos_Details_LinearSolverFactory.cpp

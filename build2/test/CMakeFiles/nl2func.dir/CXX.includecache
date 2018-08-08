@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nsingh/Utility/Dakota/dakota/test/nl2func.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+
+/home/nsingh/Utility/Dakota/dakota/test/nl2test.cpp
+cmath
+-
+

@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/g++    -rdynamic CMakeFiles/sandia_sgmga_aniso_normalize_prb.dir/sandia_sgmga_aniso_normalize_prb.cpp.o  -o sandia_sgmga_aniso_normalize_prb -Wl,-rpath,/home/nsingh/Utility/Dakota/build2/packages/external/VPISparseGrid/src ../src/libsparsegrid.so 

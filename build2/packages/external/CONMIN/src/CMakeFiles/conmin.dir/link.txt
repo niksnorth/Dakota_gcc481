@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/4.8.1/bin/gfortran -fPIC   -shared -Wl,-soname,libconmin.so -o libconmin.so CMakeFiles/conmin.dir/conmin.f.o -Wl,-rpath,::::::::::::::::::::::::::::::::::::: 
