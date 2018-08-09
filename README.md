@@ -1,4 +1,4 @@
-Dakota run with Gcc-4.8.1, Python 3.4.3, lapack/Blas/Gsl library on 64 bit cluster
+Dakota Build with graphics, using: Gcc-4.8.1, Python 3.4.3, lapack/Blas/Gsl library on 64 bit cluster
 ------------------------------------------------------------------------------
 
 Dakota:
